@@ -1,3 +1,8 @@
+#Intention
+
+To create an universal API Request-Response documentation which then will be the standard for all the apps created henceforth.
+
+
 # myBlogs
 
 Find here API Specifications
